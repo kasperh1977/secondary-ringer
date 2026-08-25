@@ -17,7 +17,7 @@
             <!-- <button @click="${this.testEm}">Test IT</button> 
             <button @click="${this.stopEm}">Stop IT</button> -->
             <!-- <div class="watermark">Demo Only</div> -->
-            <!-- </div> -->
+            </div>
             </div>
         `}};A.styles=[lt`
             :host {
